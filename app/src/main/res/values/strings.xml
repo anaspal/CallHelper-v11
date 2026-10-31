@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallHelper</string>
+    <string name="a11y_desc">اعتراض أزرار الصوت أثناء المكالمة، والضغط على زر الرد أو الإنهاء كخطة احتياطية</string>
+    <string name="credit_label">تصميم وبرمجة</string>
+    <string name="credit_name">أَنَــسْ الجَعَلْ | 𝑨𝒏𝒂𝒔 𝑨𝒍-𝒋𝒂𝒂𝒍𓂆</string>
+</resources>
